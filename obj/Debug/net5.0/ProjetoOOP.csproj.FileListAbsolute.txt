@@ -1,0 +1,16 @@
+D:\ProjetosDotNet\ProjetoOOP\bin\Debug\net5.0\ProjetoOOP.exe
+D:\ProjetosDotNet\ProjetoOOP\bin\Debug\net5.0\ProjetoOOP.deps.json
+D:\ProjetosDotNet\ProjetoOOP\bin\Debug\net5.0\ProjetoOOP.runtimeconfig.json
+D:\ProjetosDotNet\ProjetoOOP\bin\Debug\net5.0\ProjetoOOP.runtimeconfig.dev.json
+D:\ProjetosDotNet\ProjetoOOP\bin\Debug\net5.0\ProjetoOOP.dll
+D:\ProjetosDotNet\ProjetoOOP\bin\Debug\net5.0\ref\ProjetoOOP.dll
+D:\ProjetosDotNet\ProjetoOOP\bin\Debug\net5.0\ProjetoOOP.pdb
+D:\ProjetosDotNet\ProjetoOOP\obj\Debug\net5.0\ProjetoOOP.csproj.AssemblyReference.cache
+D:\ProjetosDotNet\ProjetoOOP\obj\Debug\net5.0\ProjetoOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosDotNet\ProjetoOOP\obj\Debug\net5.0\ProjetoOOP.AssemblyInfoInputs.cache
+D:\ProjetosDotNet\ProjetoOOP\obj\Debug\net5.0\ProjetoOOP.AssemblyInfo.cs
+D:\ProjetosDotNet\ProjetoOOP\obj\Debug\net5.0\ProjetoOOP.csproj.CoreCompileInputs.cache
+D:\ProjetosDotNet\ProjetoOOP\obj\Debug\net5.0\ProjetoOOP.dll
+D:\ProjetosDotNet\ProjetoOOP\obj\Debug\net5.0\ref\ProjetoOOP.dll
+D:\ProjetosDotNet\ProjetoOOP\obj\Debug\net5.0\ProjetoOOP.pdb
+D:\ProjetosDotNet\ProjetoOOP\obj\Debug\net5.0\ProjetoOOP.genruntimeconfig.cache
